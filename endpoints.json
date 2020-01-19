@@ -1,52 +1,48 @@
 [
-  { chain: 'eos', endpoint: 'https://api.eossweden.org' },
-  { chain: 'eos', endpoint: 'https://mainnet.eosn.io' },
+  {"chain":"eos","endpoint":"https://api.eossweden.org"},
+  {"chain":"eos","endpoint":"https://mainnet.eosn.io"},
   
-  { chain: 'bos', endpoint: 'https://api.bossweden.org' },
-  { chain: 'bos', endpoint: 'https://bos.eosn.io' },
-  { chain: 'bos', endpoint: 'https://bos.eosusa.news' },
+  {"chain":"bos","endpoint":"https://api.bossweden.org"},
+  {"chain":"bos","endpoint":"https://bos.eosn.io"},
+  {"chain":"bos","endpoint":"https://bos.eosusa.news"},
+  {"chain":"bos-test","endpoint":"https://tst.bossweden.org"},
   
-  { chain: 'bos-test', endpoint: 'https://tst.bossweden.org' },
-
-  { chain: 'wax', endpoint: 'https://api.waxsweden.org' },
-  { chain: 'wax', endpoint: 'https://wax.eosusa.news' },
-  { chain: 'wax', endpoint: 'https://wax.eosphere.io' },
-  { chain: 'wax', endpoint: 'https://wax.pink.gg' },
-  { chain: 'wax', endpoint: 'https://api-wax.maltablock.org' },
-  { chain: 'wax', endpoint: 'https://api.blokcrafters.io' },
+  {"chain":"wax","endpoint":"https://api.waxsweden.org"},
+  {"chain":"wax","endpoint":"https://wax.eosusa.news"},
+  {"chain":"wax","endpoint":"https://wax.eosphere.io"},
+  {"chain":"wax","endpoint":"https://wax.pink.gg"},
+  {"chain":"wax","endpoint":"https://api-wax.maltablock.org"},
+  {"chain":"wax","endpoint":"https://api.blokcrafters.io"},
+  {"chain":"wax-test","endpoint":"https://testnet.wax.pink.gg"},
+  {"chain":"wax-test","endpoint":"https://testnet.blokcrafters.io"},
   
-  { chain: 'wax-test', endpoint: 'https://testnet.wax.pink.gg' },
-  { chain: 'wax-test', endpoint: 'https://testnet.blokcrafters.io' },
-
-  { chain: 'telos', endpoint: 'https://mainnet.telosusa.io' },
-  { chain: 'telos', endpoint: 'https://telos.eosphere.io' },
-  { chain: 'telos', endpoint: 'https://api-telos-21zephyr.maltablock.org' },
-
-  { chain: 'telos-test', endpoint: 'https://testnet.telosusa.io' },
-
-  { chain: 'kylin', endpoint: 'https://kylin.eosusa.news' },
-  { chain: 'kylin', endpoint: 'https://kylin.eosn.io' },
-  { chain: 'kylin', endpoint: 'https://kylin.eossweden.org' },
-
-  { chain: 'jungle', endpoint: 'https://jungle.eosusa.news' },
-  { chain: 'jungle', endpoint: 'https://junglehistory.cryptolions.io' },
-  { chain: 'jungle', endpoint: 'https://jungle.eosn.io' },
-  { chain: 'jungle', endpoint: 'https://jungle.eossweden.org' },
-
-  { chain: 'daobet', endpoint: 'https://daobet.eossweden.org' },
-  { chain: 'daobet', endpoint: 'https://daobet.eosusa.news' },
-
-  { chain: 'daobet-test', endpoint: 'https://daobet-test.eossweden.org' },
-  { chain: 'daobet-test', endpoint: 'https://test.daobet.eosusa.news' },
-
-  { chain: 'instar', endpoint: 'https://instar.eosusa.news' },
+  {"chain":"telos","endpoint":"https://mainnet.telosusa.io"},
+  {"chain":"telos","endpoint":"https://telos.eosphere.io"},
+  {"chain":"telos","endpoint":"https://api-telos-21zephyr.maltablock.org"},
+  {"chain":"telos-test","endpoint":"https://testnet.telosusa.io"},
   
-  { chain: 'worbli', endpoint: 'https://api.worblisweden.org' },
-
-  { chain: 'meetone', endpoint: 'https://api.meetsweden.org' },
+  {"chain":"kylin","endpoint":"https://kylin.eosusa.news"},
+  {"chain":"kylin","endpoint":"https://kylin.eosn.io"},
+  {"chain":"kylin","endpoint":"https://kylin.eossweden.org"},
   
-  { chain: 'ore', endpoint: 'https://ore.eosusa.news' },
-
-  { chain: 'lynx-test', endpoint: 'https://tst.lynxsweden.org' },
-  { chain: 'lynx-test', endpoint: 'http://test.lynx.eosusa.news' }
+  {"chain":"jungle","endpoint":"https://jungle.eosusa.news"},
+  {"chain":"jungle","endpoint":"https://junglehistory.cryptolions.io"},
+  {"chain":"jungle","endpoint":"https://jungle.eosn.io"},
+  {"chain":"jungle","endpoint":"https://jungle.eossweden.org"},
+  
+  {"chain":"daobet","endpoint":"https://daobet.eossweden.org"},
+  {"chain":"daobet","endpoint":"https://daobet.eosusa.news"},
+  {"chain":"daobet-test","endpoint":"https://daobet-test.eossweden.org"},
+  {"chain":"daobet-test","endpoint":"https://test.daobet.eosusa.news"},
+  
+  {"chain":"instar","endpoint":"https://instar.eosusa.news"},
+  
+  {"chain":"worbli","endpoint":"https://api.worblisweden.org"},
+  
+  {"chain":"meetone","endpoint":"https://api.meetsweden.org"},
+  
+  {"chain":"ore","endpoint":"https://ore.eosusa.news"},
+  
+  {"chain":"lynx-test","endpoint":"https://tst.lynxsweden.org"},
+  {"chain":"lynx-test","endpoint":"http://test.lynx.eosusa.news"}
 ]
