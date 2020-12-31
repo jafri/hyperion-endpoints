@@ -1,9 +1,7 @@
 [
   {"chain":"eos","endpoint":"https://api.eossweden.org"},
-  {"chain":"eos","endpoint":"https://mainnet.eosn.io"},
   
   {"chain":"bos","endpoint":"https://api.bossweden.org"},
-  {"chain":"bos","endpoint":"https://bos.eosn.io"},
   {"chain":"bos","endpoint":"https://bos.eosusa.news"},
   {"chain":"bos-test","endpoint":"https://tst.bossweden.org"},
   
@@ -22,12 +20,10 @@
   {"chain":"telos-test","endpoint":"https://testnet.telosusa.io"},
   
   {"chain":"kylin","endpoint":"https://kylin.eosusa.news"},
-  {"chain":"kylin","endpoint":"https://kylin.eosn.io"},
   {"chain":"kylin","endpoint":"https://kylin.eossweden.org"},
   
   {"chain":"jungle","endpoint":"https://jungle.eosusa.news"},
   {"chain":"jungle","endpoint":"https://junglehistory.cryptolions.io"},
-  {"chain":"jungle","endpoint":"https://jungle.eosn.io"},
   {"chain":"jungle","endpoint":"https://jungle.eossweden.org"},
   
   {"chain":"daobet","endpoint":"https://daobet.eossweden.org"},
